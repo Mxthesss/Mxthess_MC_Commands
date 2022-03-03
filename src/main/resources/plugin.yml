@@ -1,0 +1,9 @@
+name: Mxthess_Commands
+version: '${project.version}'
+main: eu.midwest.mxthess_commands.Mxthess_Commands
+api-version: 1.18
+
+commands:
+  social:
+    description: Zobrází naše sociální sítě.
+    usage: /social
